@@ -1,0 +1,1 @@
+data_source = '../../data/titanic1.csv'
